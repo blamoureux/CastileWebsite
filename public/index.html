@@ -26,6 +26,12 @@ function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+    setTimeout( function() {
+      if (window.navigator.appName !== 'Microsoft Internet Explorer') {
+        document.getElementById('photobanner').style.display = "block";
+        document.getElementById('photobanner1').style.display = "block";
+      }
+    }, 1200);
 }
 
 function MM_findObj(n, d) { //v4.01
@@ -63,17 +69,110 @@ function MM_swapImage() { //v3.0
       </tr>
       <tr>
         <td rowspan="3" valign="top"><img src="images/structure/gutterLEFT.jpg" width="4" height="691"></td>
-        <td width="950" height="600" valign="top" class="TEXT_footer"><script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>          <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+        <td width="950" height="600" valign="top" class="TEXT_footer"><script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>          
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
               <tr>
                   <td colspan="3"><SCRIPT LANGUAGE="JavaScript">showImage();</script></td>
-                  </tr>
-              <tr>
+              </tr>
+              <tr style="display: none">
                   <td colspan="3"><div style="padding:10px 0"><video width="950" height="63" autoplay>
-  <source src="rotator-updated-2016.mp4" type="video/mp4">
-  <source src="rotator-updated-2016.ogv" type="video/ogg">
-</video></div></td>
-                  </tr>
+                        <source src="rotator-updated-2016.mp4" type="video/mp4">
+                        <source src="rotator-updated-2016.ogv" type="video/ogg">
+                      </video></div>
+                  </td>
+              </tr>
               <tr>
+                <td colspan="3">
+                  <div id="bannerparent">
+                    <div id="bannercontainer">
+                        <div id="photobanner" class="photobanner">
+                          <img class="first" src="./portfolio/images/Agiliance-655x195-JPEG_000.jpg" width="119" height="35" border="0" alt="" style="padding: 10px 10px 10px 10px" />
+                          <img src="./portfolio/images/Agito_000.gif" width="119" height="27" border="0" alt="" style="padding: 19px 10px 9px 10px" />
+                          <img src="./images/secondary/portfolio/ahura.gif" width="119" height="50" border="0"alt="" style="padding: 3px 10px 2px 10px"/>
+                          <img src="./images/secondary/portfolio/aspeed.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/aurora.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./portfolio/images/bni_logo_main.gif" width="110" height="55" border="0" alt="" style="padding: 3px 15px 2px 14px" />
+                          <img src="./portfolio/images/BAA_logo_Current.jpg" width="119" height="42" border="0" alt="" style="padding: 7px 10px 6px 10px" />
+                          <img src="./images/secondary/portfolio/chosen.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./portfolio/images/Connotate-web.jpg" width="83" height="55" border="0" alt="" style="padding: 0px 38px 0px 18px" />
+                          <img src="./portfolio/images/Funambol.jpg" width="119" height="32" border="0" alt="" style="padding: 13px 20px 10px 0px" />
+                          <img src="./images/secondary/portfolio/geoTrust.gif" width="119" height="50" border="0" alt="" style="padding: 3px 20px 2px 0px" />
+                          <img src="./portfolio/images/HealthGuruNew.jpg" width="119" height="28" border="0" alt="" style="padding: 15px 20px 12px 0px" />
+                          <img src="./portfolio/Nanomedical-Diagnostics-Inc.jpg" width="119" height="31" border="0" alt="" style="padding: 14px 20px 10px 0px" />
+                          <img src="./images/secondary/portfolio/neah.gif" width="119" height="50" border="0" alt="" style="padding: 3px 20px 2px 0px" />
+                          <img src="./images/secondary/portfolio/netD.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/networkIntelligence.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/optiant.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/quantiva.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/retailExchange.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/sandbridge.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/silverstorm.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/sonus.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/stargus.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./images/secondary/portfolio/TetraGenetics1.png" width="119" height="24" border="0" alt="" style="padding: 11px 10px 10px 10px" />
+                          <img src="./images/secondary/portfolio/trapeze.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./portfolio/images/color_jpeg_small.jpg" width="101" height="55" border="0" alt="" style="padding: 0px 19px 0px 19px"/>
+                          <img src="./portfolio/images/whaleback-newOct2011_000.png" width="119" height="39" border="0" alt="" style="padding: 10px 10px 6px 10px" />
+
+
+                          <img src="./portfolio/images/Agiliance-655x195-JPEG_000.jpg" width="119" height="35" border="0" alt="" style="padding: 10px 10px 10px 10px" />
+                          <img src="./portfolio/images/Agito_000.gif" width="119" height="27" border="0" alt="" style="padding: 19px 10px 9px 10px" />
+                          <img src="./images/secondary/portfolio/ahura.gif" width="119" height="50" border="0"alt="" style="padding: 3px 10px 2px 10px"/>
+                          <img src="./images/secondary/portfolio/aspeed.gif" width="119" height="50" border="0" alt=""  style="padding: 3px 10px 2px 10px"/>
+                          <img src="./images/secondary/portfolio/aurora.gif" width="119" height="50" border="0" alt="" style="padding: 3px 10px 2px 10px" />
+                          <img src="./portfolio/images/bni_logo_main.gif" width="110" height="55" border="0" alt="" style="padding: 3px 15px 2px 14px" />
+                          <img src="./portfolio/images/BAA_logo_Current.jpg" width="119" height="42" border="0" alt="" style="padding: 7px 10px 6px 10px" />
+                        </div>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                  <td colspan="3">
+                    <div id="bannerparent1">
+                      <div id="bannercontainer1">
+                          <div id="photobanner1" class="photobanner" style="height: 25px">
+                            <img class="first" src="./portfolio/images/notacquired.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Agito.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Ahura.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Aurora.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/BNI.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Brix.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/ByAllAccounts.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/ChosenSecurity.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/notacquired.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/notacquired.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/GeoTrust.png" width="139" height="12" border="0" alt="" style="padding: 2px 0px 18px 0px" />
+                            <img src="./portfolio/images/HealthGuru.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/notacquired.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/NeahPower.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/notacquired.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/NetworkIntelligence.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Optiant.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Quantiva.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/notacquired.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/SandBridge.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/SilverStorm.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Sonus.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Stargus.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/notacquired.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Trapeze.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/VGo.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Whaleback.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+  
+                            <img src="./portfolio/images/Agito.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Ahura.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Aurora.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/BNI.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/Brix.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/ByAllAccounts.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                            <img src="./portfolio/images/ChosenSecurity.png" width="139" height="12" border="0" alt="" style="padding: 10px 0px 10px 0px" />
+                          </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
                   <td width="348" valign="top"><SCRIPT LANGUAGE="JavaScript">showQuoteImage();</script></td>
                   <td width="602" valign="top" colspan="2"><!--<img src="images/latestNewsHome.gif" alt="Latest News" width="585" height="48"> --><br>
                       <p style="padding-right:30px">At Castile Ventures we are very proud of the achievements of our portfolio companies. Many have been recognized as leading participants in their respective segments as they introduced market-transforming products and services, received accolades from industry analysts, and partnered with major players to extend their reach. This innovation and leadership has fueled the creation of scalable and valuable enterprises, rewarding outcomes for their entrepreneurs and teams, and successful acquisitions and realizations.<br>
@@ -109,6 +208,7 @@ function MM_swapImage() { //v3.0
     <td width="33%" background="images/structure/BGrepeaterRIGHT.jpg" style="background-repeat: repeat-x;">&nbsp;</td>
   </tr>
 </table>
+
 </body>
 
 <!-- Mirrored from castileventures.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 27 Jan 2017 15:48:24 GMT -->
