@@ -1,10 +1,10 @@
 // JavaScript Document
 var theImages = new Array() // do not change this
 
-theImages[0] = '/images/home/focusImage5.jpg'
-theImages[1] = '/images/home/focusImage6.jpg'
-theImages[2] = '/images/home/focusImage5.jpg'
-theImages[3] = '/images/home/focusImage6.jpg'
+theImages[0] = '/images/home/focusImage6a.png'
+theImages[1] = '/images/home/focusImage6a.png'
+theImages[2] = '/images/home/focusImage6a.png'
+theImages[3] = '/images/home/focusImage6a.png'
 
 // do not edit anything below this line
 
@@ -17,7 +17,7 @@ for (i = 0; i < p; i++){
 }
 var whichImage = Math.round(Math.random()*(p-1));
 function showImage(){
-document.write('<img src="'+theImages[whichImage]+'">');
+    document.write('<div class="homeimagediv"><img class="homeimage" src="'+ theImages[whichImage] + '"></div>');
 }
 
 
