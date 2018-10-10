@@ -1,10 +1,10 @@
 // JavaScript Document
 var theImages = new Array() // do not change this
 
-theImages[0] = '/images/home/focusImage6a.png'
-theImages[1] = '/images/home/focusImage6a.png'
-theImages[2] = '/images/home/focusImage6a.png'
-theImages[3] = '/images/home/focusImage6a.png'
+theImages[0] = '/images/home/focusImage2b.png'
+theImages[1] = '/images/home/focusImage2b.png'
+theImages[2] = '/images/home/focusImage2b.png'
+theImages[3] = '/images/home/focusImage2b.png'
 
 // do not edit anything below this line
 
