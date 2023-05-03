@@ -1,0 +1,501 @@
+                                            <tr>
+                                                <td colspan="4" class="porttext">Brix Networks provides service assurance solutions for IP-based services.</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> Acquired by EXFO (NASDAQ: EXFO)
+                                                    <br>
+                                                    <strong>Location prior to acquisition:</strong> Chelmsford, MA</td>
+                                                <td align="right">
+                                                    <a href="http://www.brixnet.com/" target="_blank">
+                                                        <img src="../images/secondary/portfolio/brix.gif" width="100" height="41" border="0">
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="4" class="porttext">ByAllAccounts delivers account aggregation and reconciliation-ready data
+                                                    to investment management and advisory firms.</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> Acquired by Morningstar (NASDAQ: MORN)
+                                                    <br>
+                                                    <strong>Location prior to acquisition:</strong> Woburn, MA</td>
+                                                <td align="right">
+                                                    <img src="images/BAA_logo_Current.jpg" width="150" height="52" border="0" align="right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="4" class="porttext">ChosenSecurity offers identity verification and security services that ensure
+                                                    secure online communication and transactions.</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> Acquired by PGP/Symantec (NASDAQ: SYMC)
+                                                    <br>
+                                                    <strong>Location prior to acquisition:</strong> Newton, MA</td>
+                                                <td align="right">
+                                                    <img src="../images/secondary/portfolio/chosen.gif" width="120" height="50" border="0" align="right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="4" class="porttext">Connotate is a leading provider of &ldquo;big data&rdquo; solutions that
+                                                    help organizations monitor and collect data and content from the web.</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> Private
+                                                    <br>
+                                                    <strong>Location:</strong> New Brunswick, NJ </td>
+                                                <td align="right">
+                                                    <div align="center">
+                                                        <img src="images/Connotate-web.jpg" alt="Eightfold Logic Logo" width="80" height="52" border="0" align="right">
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td colspan="4" align="center" class="porttext">
+                                                    <div align="left">Funambol is the leading provider of white-label personal cloud sync solutions
+                                                        for mobile phones and connected devices, powered by open source.
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> Private
+                                                    <br>
+                                                    <strong>Location:</strong> Foster City, CA </td>
+                                                <td align="right">
+                                                    <img src="images/Funambol.jpg" width="142" height="38" border="0" align="right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="4" class="porttext">GeoTrust secures e-commerce transactions and manages trusted environments
+                                                    for conducting e-business. </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> Acquired by VeriSign (NASDAQ: VRSN)
+                                                    <br>
+                                                    <strong>Location prior to acquisition:</strong> Needham, MA</td>
+                                                <td align="right">
+                                                    <img src="../images/secondary/portfolio/geoTrust.gif" alt="" border="0" align="right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="4" class="porttext">
+                                                    <p style="margin-top:0;margin-bottom:0;">HealthGuru is a provider of health video on-line.</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> Acquired by Propel Media Inc. (OTCBB: PROM)
+                                                    <br>
+                                                    <strong>Location prior to acquisition:</strong> New York, NY </td>
+                                                <td align="right">
+                                                    <img src="images/HealthGuruNew.jpg" alt="Hangout Industries" width="130" height="30" border="0" align="right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="4" class="porttext">NanoMedical Diagnostics provides cutting-edge and affordable diagnostic and
+                                                    monitoring platforms to deliver accurate, timely health information.
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> Private
+                                                    <br>
+                                                    <strong>Location:</strong> San Diego, CA</td>
+                                                <td align="right">
+                                                    <span style="margin-top: 0">
+                                                        <img src="Nanomedical-Diagnostics-Inc.jpg" width="176" height="46" alt="" border="0" align="right">
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="4" class="porttext">Neah Power Systems develops micro fuel cells for portable electronic devices
+                                                    based on a unique silicon-based design.</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <br>
+                                                    <strong>Status:</strong> OTC BB: NPWZ
+                                                    <br>
+                                                    <strong>Location:</strong> Bothell, WA
+                                                </td>
+                                                <td align="right">
+                                                    <img src="../images/secondary/portfolio/neah.gif" alt="" border="0" align="right">
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                                <td colspan="2">
+                                                    <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="4" class="porttext">NetDevices provides the next generation of unified edge-networking solutions
+                                                    for the enterprise remote office and managed services markets.</td>
+                                            </tr>
+                                            <tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by Alcatel-Lucent (NYSE: ALU)
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> Sunnyvale, CA</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/netD.gif" width="100" height="41" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="2">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="4" class="porttext">Network Intelligence consolidates and manages enterprise data at the
+                                                        core of compliance and security.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by EMC (NYSE: EMC)
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> Westwood, MA
+                                                    </td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/networkIntelligence.gif" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="2">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="4" class="porttext">Optiant provides solutions for supply chain design and optimization.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by Logility (a unit of NASDAQ: AMSWA)
+                                                        <br>
+                                                        <strong>Location</strong>
+                                                        <strong> prior to acquisition:</strong> Burlington, MA</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/optiant.gif" width="110" height="45" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">Quantiva provides automated performance analytics for web services.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by NetScout (NASDAQ: NTCT)
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> Princeton, NJ</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/quantiva.gif" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">RetailExchange's Internet-based platform specializes in the trade of
+                                                        excess retail goods.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by Gordon Brothers
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> Boston, MA</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/retailExchange.gif" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">Sandbridge Technologies develops software-defined 3G and 4G processors
+                                                        for multi-mode mobile handsets.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by a large public company
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> Tarrytown, NY </td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/sandbridge.gif" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">SilverStorm Technologies' high-speed switching products for the data
+                                                        center leverage the InfiniBand architecture.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by QLogic (NASDAQ: QLGC)
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> King of Prussia, PA</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/silverstorm.gif" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">Sonus provides VoIP and multimedia infrastructure solutions for service
+                                                        providers.
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> NASDAQ: SONS
+                                                        <br>
+                                                        <strong>Location:</strong> Chelmsford, MA</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/sonus.gif" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">Stargus provides real-time monitoring and automated management for broadband
+                                                        service provider networks.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by C-COR (NASDAQ: CCBL)
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> Andover, MA</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/stargus.gif" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">TetraGenetics harnesses the unique capabilities of the protozoa Tetrahymena
+                                                        thermophila to produce recombinant proteins for the biopharmaceutical
+                                                        industry.
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Private
+                                                        <br>
+                                                        <strong>Location:</strong> Lexington, MA</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/TetraGenetics.png" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">Trapeze Networks enables enterprises to deploy massively scalable mobile
+                                                        applications using WLAN architecture.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by Belden (NYSE: BDC)
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> Pleasanton, CA</td>
+                                                    <td align="right">
+                                                        <img src="../images/secondary/portfolio/trapeze.gif" alt="" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">VGo Communications robotic telepresence connects homebound students,
+                                                        discharged patients and remote experts.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br>
+                                                        <strong>Status:</strong> Acquired by Vecna
+                                                        <br>
+                                                        <strong>Location prior to acquisition:</strong> Nashua, NH</td>
+                                                    <td align="right">
+                                                        <img src="images/color_jpeg_small.jpg" alt="Vgo Logo" width="101" height="55" border="0" align="right">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                    <td colspan="1">
+                                                        <img src="../images/secondary/portfolio/portSplitter.gif" alt="" width="470" height="11" border="0">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" class="porttext">Whaleback Managed Services is pioneering a managed IP telephony service
+                                                        that delivers VoIP's advanced features and low costs to the SMB market.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p style="margin-top: 0">
+                                                            <br>
+                                                            <strong>Status:</strong> Acquired by Fuze
+                                                            <br>
+                                                            <strong>Location prior to acquisition:</strong> Portsmouth, NH</p>
+                                                    </td>
+                                                    <td align="right">
+                                                        <p style="margin-top: 0; margin-bottom: 0">
+                                                            <img src="images/whaleback-newOct2011_000.png" width="120" height="39" border="0" align="right">
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>&nbsp;</td>
+                                                    <td align="right">&nbsp;</td>
+                                                </tr>
